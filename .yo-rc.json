@@ -1,0 +1,17 @@
+{
+  "generator-stui5": {
+    "bootstrap": "../../resources/sap-ui-core.js",
+    "firstViewName": "Initial",
+    "webappRoot": "webapp",
+    "baseController": true,
+    "baseControllerBody": false,
+    "formatter": true,
+    "mockServer": true,
+    "gitInit": true,
+    "eslint": true,
+    "appNamespace": "hello",
+    "appTitle": "demo",
+    "appType": "master-detail",
+    "superControllerPath": "hello/controller/Base.controller"
+  }
+}
